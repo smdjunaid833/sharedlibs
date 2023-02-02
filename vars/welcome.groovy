@@ -1,4 +1,4 @@
-def call(name)
+def dj(name)
 {
 echo " hey ${name}  how are uu?"
   echo " r u friends "
