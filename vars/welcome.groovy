@@ -6,7 +6,8 @@ echo " hey ${name}  how are uu?"
 }
 
 
-def add(x,y)
+def jd(x,y)
 {
   echo " sum of ${x} and ${y} is ${x+y}"
 }
+
